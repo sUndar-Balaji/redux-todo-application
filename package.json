@@ -1,0 +1,22 @@
+{
+  "name": "todo-",
+  "version": "1.0.0",
+  "description": "todo application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sUndar-Balaji/redux-todo-application.git"
+  },
+  "author": "sundar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sUndar-Balaji/redux-todo-application/issues"
+  },
+  "homepage": "https://github.com/sUndar-Balaji/redux-todo-application#readme",
+  "devDependencies": {
+    "babel": "^6.5.2"
+  }
+}
